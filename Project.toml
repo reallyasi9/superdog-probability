@@ -1,0 +1,7 @@
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+LazyJSON = "fc18253b-5e1b-504c-a4a2-9ece4944c004"
